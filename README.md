@@ -1,4 +1,5 @@
 # U-Shape-Based-Architecture-with-Adjusted-Bilateral-Guided-Aggregation-Layer-for-Nuclei-Image-Segment
+See our [published paper](https://ieeexplore.ieee.org/document/9852083/) here.
 ## Introduction
 Cell Segmentation on the dataset [Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
 ## Our contributions
